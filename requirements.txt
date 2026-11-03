@@ -1,0 +1,12 @@
+pandas==2.3.3
+numpy==2.4.4
+scipy==1.17.1
+scikit-learn==1.8.0
+lightgbm==4.6.0
+xgboost==3.2.0
+statsmodels==0.14.6
+shap==0.51.0
+pyxdf==1.17.5
+matplotlib==3.10.8
+rich==15.0.0
+tqdm==4.67.3
